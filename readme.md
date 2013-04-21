@@ -1,0 +1,1 @@
+Exemplo puro de interfaces.
